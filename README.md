@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif" alt="cat-typing" />
 
-- I am a Software Engineer with 5 years of experience specializing in Android development, having contributed to projects at Next, PagBank, OLX, and innovative startups. My passions lie in mobile development, artificial intelligence, machine learning, and cybersecurity.
+- I am a Software Engineer with 5 years of experience specializing in Android development, having contributed to projects at Ifood, Next, PagBank, OLX, and innovative startups. My passions lie in mobile development, artificial intelligence, machine learning, and cybersecurity.
 - I hold an Associate's Degree in Computer Systems from Universidade Federal Fluminense and am currently pursuing a Bachelor's degree in Computer Science at Arizona State University. I am bilingual in Portuguese and English, certified as an Administrative Technician by SENAC, and hold a Leadership certification from Aspire Institute, an organization founded at Harvard University.
 - Beyond my professional career, I have been an ambassador for the social initiative Guardians Solidários for over 8 years, combining my technical expertise with a strong commitment to driving social impact.
 
