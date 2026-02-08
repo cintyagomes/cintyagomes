@@ -27,11 +27,9 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=a37ade)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintyagomes&theme=transparent&bg_color=000000&border_color=a37ade&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintyagomes&layout=compact&bg_color=000000&border_color=a37ade&title_color=30A3DC&text_color=FFFFFF)
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=cintyagomes&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cintyagomes&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Check out my article!
 
