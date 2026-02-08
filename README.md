@@ -29,9 +29,9 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowithcintya&theme=transparent&bg_color=000000&border_color=a37ade&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintyagomes&theme=transparent&bg_color=000000&border_color=a37ade&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowithcintya&layout=compact&bg_color=000000&border_color=a37ade&title_color=30A3DC&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintyagomes&layout=compact&bg_color=000000&border_color=a37ade&title_color=30A3DC&text_color=FFFFFF)
 
 ### Check out my article!
 
